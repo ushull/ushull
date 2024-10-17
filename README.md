@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on Public Healthcare System
 - 🌱 I’m currently learning IoT, Arduino, C++, Python, Java, PMP-ACP and many more things
 - 👯 I’m looking to collaborate on any interesting project
-- 💬 Ask me about anything you need
+- 💬 Ask me about anything
 - 📫 How to reach me: iamushull@gmail.com
